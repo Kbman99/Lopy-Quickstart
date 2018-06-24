@@ -36,4 +36,4 @@ The following schematics are for the solar tracking panel and the voltage regula
 
 ![Solar Circuit Board Layout](static/images/solar_circuit2.png)
 
-![Solar Tracking Circuit](static/images/solar_tracker.png)
+![Solar Tracking Circuit](static/images/solar_tracker.PNG)
